@@ -1,0 +1,20 @@
+# PageRank Performance Analysis Project Requirements
+# This project uses only Python standard library - no external dependencies required
+
+# For development and testing (optional)
+# unittest - included in Python standard library
+# time - included in Python standard library  
+# sys - included in Python standard library
+# statistics - included in Python standard library
+# random - included in Python standard library
+
+# Python version requirement
+# python>=3.6
+
+# Optional development tools (not required for core functionality)
+# flake8>=3.8.0  # For code linting
+# black>=20.8b1  # For code formatting
+# mypy>=0.800    # For type checking
+
+# Note: This project is designed to work with Python standard library only
+# to demonstrate pure algorithmic implementations without external dependencies
