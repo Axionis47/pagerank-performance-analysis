@@ -1,7 +1,7 @@
 # DSA Project: PageRank Algorithm Performance Analysis
 
 ## Project Overview
-This is a Data Structures and Algorithms (DSA) project that implements PageRank algorithm using different data structures and compares their performance. The project was originally developed in Jupyter notebook but has been improved and organized into proper Python modules.
+This is a Data Structures and Algorithms (DSA) project that implements PageRank algorithm using different data structures and compares their performance. 
 
 ## Objective
 To understand how different data structures affect the performance of PageRank algorithm by implementing and comparing:
